@@ -1,0 +1,14 @@
+Summary: Axe doesn't damage the orcs
+Category: Gameplay
+Severity: Critical
+Priority: High
+Steps to reproduce:
+                1. Reach the second act
+                2. Go to the_Auberdine lake
+                3. Talk to Ricardo
+                4. Take up an axe-type weapon
+                5. Attack and try to damage the orc
+Result: Orc has no damage
+Expected result: Orc should be damaged
+Version: 3.2.4
+Platform: PS5
