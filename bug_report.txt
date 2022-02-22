@@ -11,4 +11,4 @@ Steps to reproduce:
 Result: Orc has no damage
 Expected result: Orc should be damaged
 Version: 3.2.4
-Platform: PS4
+Platform: PS5
